@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "EA FC Mentor ",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.webp",
     role: "EA FC Player",
     bio: "I play EA FC as a hobby.",
     email: "vefa.essaid@gmail.com",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "ea-fc-mentor-log",
+    title: "EA FC Mentor Blog",
     description: "welcome to EA FC Mentor blog!",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
